@@ -34,6 +34,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OutlawGhost&repo=Aerospace&theme=shadow_red&cache_seconds=1800&border_radius=10&show_owner=true&title_color=66b3ff&text_color=000000&icon_color=66d9ff&border_color=66d9ff&bg_color=ffff66&hide_border=false" alt="GitHub repo-card Card" />
 </p>
 
-<img src="https://raw.githubusercontent.com/OutlawGhost/OutlawGhost/snake.svg" alt="Snake animation" />
-
-###

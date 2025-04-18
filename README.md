@@ -16,14 +16,7 @@
 <p align="center"><a href="elonspacex2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/OutlawGhost" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/ashwin-kumar-b-d22m03y2005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/ash_pathfinder_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/@Ashwinmusk" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left"> 💫 About Me:
-👋 Hi, I’m Ashwin Kumar aka @51M0N-GH057<br>📫 How to reach me: elonspacex2002@gmail.com<br>💡 Internship: Worked on Automating Stage Checkout for Gaganyaan at Indian Sspace Research Oroganisation 🌟<br>🖥️ Skills: Python, C++, Arduino, ESP32, AI/ML, Avionics, and Telemetry.<br>📖 Learning: DevOps & Advanced Aerospace Systems.<br>✨ Goals: To innovate at the intersection of AI and Space Tech.<br>🌌 Current Projects: (TITAN) Rocket Flight Computer , Telemetry and ground station for model rocketry and UAV drone detection</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Developing a Ground station, flight computer called TITAN and it's telemetry system, Anti-Uav AI model and cube sat **
-- 🌱 I'm currently learning: **📚 Exploring RTOS, ADA, and MATLAB**
-- 💬 Ask me about: **💡 space system, Avionics and flight software**
-- ⚡ Fun fact: **🎢 an outcast of Aerospace **
+👋 Hi, I’m Ashwin Kumar aka @51M0N-GH057<br>📫 How to reach me: elonspacex2002@gmail.com<br>💡 Internship: Worked in Avioincs department in ISRO as a Intern 🌟<br>🖥️ Skills: Python, C++, IOT, RTOS, AI/ML, Avionics, and Telemetry.<br>📖 Learning: RTOS & ADA <br>✨ Goals: To merge the line of AI and Space Tech <br>🌌 Current Projects: (TITAN) Rocket Flight Computer , Telemetry and ground station for model rocketry and UAV detection AI model </h3>**
 
  **<h3 align="left">Skills</h3>**
 

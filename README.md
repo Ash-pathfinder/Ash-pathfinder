@@ -45,4 +45,4 @@
 
 <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
  </div> ###
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> ###
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.yml" alt="Snake animation" /> ###

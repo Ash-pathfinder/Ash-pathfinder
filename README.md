@@ -42,4 +42,6 @@
 </p>
 
  **<h3 align="left">Support Me</h3>**
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.yml" alt="Snake animation" /> ###
+<img src="https://raw.githubusercontent.com/OutlawGhost/OutlawGhost/output/snake.svg" alt="Snake animation" />
+
+###

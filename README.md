@@ -1,5 +1,6 @@
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ashwin%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ashwin%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=First%20make%20it%20work%2C%20then%20reliable%20and%20finally%20beautiful" alt="Typing introduction" />
@@ -14,7 +15,11 @@
 <img src="https://i.pinimg.com/originals/6d/29/cc/6d29cc48ad122d9f1f3becb2c7b7b27d.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm Ashwin and I'm 22 first of all I'm not a great programmer but i love the how the computer works and my goal is to be avionics engineer for launch vehicle while i have a bachelors in CS (which is weird for some ppl idk) so I'm trying to do my best while try not to leave the programming knowledge leave behind i made a few scripts some myself some with help not the base of AI and after few years my focus turned to electronics and also i started to learn how the modern tech doesn't exist without computer (some ppl never understand that ) also I'm trying to embedded system related projects so I'm trying myself not to quit the habit of programing so if you ready this fully nice to meet you buddy
+- I'm Ashwin and I'm 22 first of all I'm not a great programmer but i love the how the computer works
+- My goal is to be avionics engineer for launch vehicle while i have a bachelors in CS (which is weird for some ppl idk) so I'm trying to do my best while try not to leave the programming knowledge leave behind
+- I made a few scripts some myself some with help not the base of AI and after few years my focus turned to electronics
+- I started to learn how the modern tech doesn't exist without computer (some ppl never understand that ) also I'm trying to embedded system related projects so I'm trying myself not to quit the habit of programing so if you ready this fully nice to meet you buddy
+- Fan of F1 and it's engineering not just another fan tho
 - also i made this page with a template generator not AI 😁
 
 
@@ -35,9 +40,9 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ash-pathfinder&theme=merko&radius=10" alt="Ash-pathfinder's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 
 ## 🛠️ Languages & Tools
@@ -100,4 +105,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-

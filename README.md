@@ -1,6 +1,5 @@
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ashwin%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ashwin%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=First%20make%20it%20work%2C%20then%20reliable%20and%20finally%20beautiful" alt="Typing introduction" />
@@ -97,6 +96,10 @@
   <a href="https://ashwin-kumar-portfolio.netlify.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <div align="center">

@@ -39,8 +39,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ash-pathfinder&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Ash-pathfinder's GitHub Stats" />
   </a>
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ash-pathfinder&theme=merko&radius=10" alt="Ash-pathfinder's Activity Graph" />
+
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
